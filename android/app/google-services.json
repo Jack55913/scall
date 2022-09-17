@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917233581040",
+    "project_id": "scall-76865",
+    "storage_bucket": "scall-76865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917233581040:android:7144418af082896fcbbb35",
+        "android_client_info": {
+          "package_name": "com.example.scall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917233581040-o9bf5i81jstmugco8u2cmkf0sukodtno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scall",
+            "certificate_hash": "24f035fca033d2c25fef707cb8571f0e2288d5f0"
+          }
+        },
+        {
+          "client_id": "917233581040-pn1ueekgnlqtaln6bitneoftfam6loeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZFp_2zGqAJpJkSdf4iDXSqEk_RvWnV2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917233581040-pn1ueekgnlqtaln6bitneoftfam6loeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
